@@ -3,8 +3,8 @@ This is a simple unfinished webside created entirely on the basis of the tutoria
 The main goal was to develop my knowledge of css.
 
 ### Technologies:
-* html5
-* css3
+* html
+* css
 * javascript
 * jquery
 * also fontello from google and fonts from google, lorem ipsum
